@@ -6325,7 +6325,7 @@
 							<label lang="ja">A/ms</label>
 							<label lang="zh-CN">A/ms</label>
 						</unit>
-						<actualValue>5250</actualValue>
+						<actualValue>4250</actualValue>
 					</parameter>
 					<parameter uniqueID="PARAM_SetValueCurrentOffset" persistent="true" variableName="REG_lSetValueCurrentOffset" callbackName="DEV_CheckDisabled">
 						<index>0x4140</index>
@@ -6348,7 +6348,7 @@
 							<label lang="ja">A</label>
 							<label lang="zh-CN">A</label>
 						</unit>
-						<actualValue>275</actualValue>
+						<actualValue>1175</actualValue>
 					</parameter>
 					<parameter uniqueID="PARAM_SetValueCurrentFixedValue1" persistent="true" variableName="REG_lSetValueCurrentFixedValue1">
 						<index>0x4140</index>
@@ -6494,7 +6494,7 @@
 							<label lang="ja">A</label>
 							<label lang="zh-CN">A</label>
 						</unit>
-						<actualValue>800</actualValue>
+						<actualValue>1600</actualValue>
 					</parameter>
 					<parameter uniqueID="PARAM_SetValueCurrentSecondSource" persistent="true" variableName="REG_iSetValueCurrentSecondSource">
 						<index>0x4140</index>
