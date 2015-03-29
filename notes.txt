@@ -1,0 +1,31 @@
+missing pins (because of ribbon cable headers):
+
+13, 14, 11, 12
+
+Mass of : 252.8g
+Mass of wheel: 135.2g or ~110g if subtracting weight of holder
+Mass of motor: 141g
+
+
+Top accelerometer: 
+
+x (radial direction):
+1.25 -> 9.81 m/s^2
+1.345 -> 4.905 m/s^2
+
+y (tangential direction):
+1.528 -> 0 m/s^2
+1.756 -> -4.905 m/s^2
+
+Bottom accelerometer:
+
+x (radial direction):
+1.87 -> -4.905 m/s^2
+1.96 -> -9.81 m/s^2
+
+y (tangential direction):
+1.33 -> 4.905 m/s^2
+1.54 -> 0 m/s^2
+
+r1 (top): 10.47cm
+r2 (bottom): 8.38cm
