@@ -2,9 +2,12 @@ missing pins (because of ribbon cable headers):
 
 13, 14, 11, 12
 
-Mass of : 252.8g
-Mass of wheel: 135.2g or ~110g if subtracting weight of holder
-Mass of motor: 141g
+Masses (in grams):
+motor | 141
+holder | 20
+frame | 252.8
+wheel | 110
+
 
 
 Top accelerometer: 
